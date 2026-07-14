@@ -1,4 +1,6 @@
-The source code will be made publicly available upon acceptance.
+# SAFE-Mixer
+
+> **The source code will be made publicly available upon acceptance.**
 
 ## Qualitative Results
 
