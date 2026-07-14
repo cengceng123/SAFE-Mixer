@@ -1,6 +1,6 @@
 # SAFE-Mixer
 
-The source code will be made publicly available upon acceptance.
+> The source code will be made publicly available upon acceptance.
 
 ## Qualitative Results
 
@@ -10,6 +10,4 @@ The source code will be made publicly available upon acceptance.
 
 ## Demo Video
 
-<p align="center">
-  <video src="demo.mp4" controls width="900"></video>
-</p>
+📹 **Demo:** [demo.mp4](demo.mp4)
