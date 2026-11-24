@@ -27,8 +27,6 @@ Place the datasets in `inputs/<dataset>/images/` and `inputs/<dataset>/masks/0/`
 python main.py --dataset TN3K --name TN3K_SAFE --img_ext .jpg --mask_ext .png --epochs 300 --batch_size 8 --split_seed 41 --num_workers 0
 ```
 
-The split seed is an example. The separate HD95 evaluator used in the paper is not included.
-
 ## Qualitative Results
 
 ![Qualitative Results](error.png)
